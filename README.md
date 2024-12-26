@@ -49,6 +49,7 @@ This project showcases a comprehensive analysis of coffee orders using Excel. Th
 
 ## Dataset Details
 The dataset contains real-world scenarios of coffee sales, capturing order transactions, customer demographics, and product specifications. This structured data allows for end-to-end analysis, from raw data to actionable insights.
+https://github.com/shivavirat677/Coffee-Shop-Sales-Dashboard/blob/main/IMAGE.png
 
 ## Future Enhancements
 - Integrate more advanced visualizations and filters for interactive reporting.
