@@ -1,8 +1,11 @@
-# Coffee-Shop-Sales-Dashboard
 # Coffee Orders Dashboard Project
 
 ## Project Overview
 This project showcases a comprehensive analysis of coffee orders using Excel. The primary goal is to transform raw data into actionable insights through the creation of dashboards, charts, and reports. The project utilizes datasets related to coffee orders, customers, and products, providing visualizations and aggregated metrics to highlight sales performance and customer behavior.
+
+## Dashboard Preview
+![Dashboard]()
+*Screenshot of the main dashboard*
 
 ## Files Included
 1. **coffeeOrdersProject.xlsx**: Contains the Excel-based project with the following sheets:
@@ -49,7 +52,6 @@ This project showcases a comprehensive analysis of coffee orders using Excel. Th
 
 ## Dataset Details
 The dataset contains real-world scenarios of coffee sales, capturing order transactions, customer demographics, and product specifications. This structured data allows for end-to-end analysis, from raw data to actionable insights.
-https://github.com/shivavirat677/Coffee-Shop-Sales-Dashboard/blob/main/IMAGE.png
 
 ## Future Enhancements
 - Integrate more advanced visualizations and filters for interactive reporting.
@@ -58,7 +60,3 @@ https://github.com/shivavirat677/Coffee-Shop-Sales-Dashboard/blob/main/IMAGE.png
 
 ## Conclusion
 This project demonstrates the power of Excel for data analysis and visualization. By leveraging structured data and creating meaningful dashboards, it provides valuable insights for decision-making in a business context.
-
-
-
-
